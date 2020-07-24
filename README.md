@@ -1,1 +1,1 @@
-# Simple-Password-Generator-App
+# Password Generator App with Slider JS
